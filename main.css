@@ -5,7 +5,7 @@ body {
 	width: 890px;
 	margin: 0 auto;
 	font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;
-   background: #FF8F2;
+   background: #90EE90;
 }
 
 nav{
@@ -45,7 +45,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #FF5733;
+    background-color: #90EE90;
     border-radius: 20px;
 }
 
