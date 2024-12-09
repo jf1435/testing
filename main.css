@@ -45,7 +45,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #FFFFFF;
+    background-color: #191970;
     border-radius: 20px;
 }
 
@@ -55,7 +55,7 @@ li {
 
 li a {
     display: block;
-    color: #191970;
+    color: #FFFFFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
